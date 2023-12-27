@@ -20,5 +20,5 @@ A portfolio is a collection of projects, articles, work samples, or achievements
 - Markdown Cheat Sheet [markdowncheatsheet](https://medium.com/@chiomageraldine8/basic-writing-and-formatting-syntax-in-markdown-language-39fc10741c3e)
 
 **Review of Linux Fundamentals**
-
+- Linux [Linuxcommands](https://medium.com/@chiomageraldine8/linux-fundamentals-2b376a210a9b)
 
